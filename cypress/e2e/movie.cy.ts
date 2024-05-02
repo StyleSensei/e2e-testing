@@ -1,5 +1,3 @@
-import { should } from 'chai';
-
 beforeEach(() => {
   cy.visit('/');
 });
